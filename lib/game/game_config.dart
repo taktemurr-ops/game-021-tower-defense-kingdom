@@ -2,12 +2,12 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
-import '../app/arcade_stage.dart';
-import '../app/game_api.dart';
-import '../app/play_kit.dart';
-import '../app/services/audio.dart';
-import '../core/arcade.dart';
-import '../core/game_rules.dart';
+import 'package:studio_core/app/arcade_stage.dart';
+import 'package:studio_core/app/game_api.dart';
+import 'package:studio_core/app/play_kit.dart';
+import 'package:studio_core/app/services/audio.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/game_rules.dart';
 import 'td_engine.dart';
 import 'rules.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_021_tower_defense_kingdom/core/arcade.dart';
-import 'package:game_021_tower_defense_kingdom/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_021_tower_defense_kingdom/game/rules.dart';
 import 'package:game_021_tower_defense_kingdom/game/td_engine.dart';
 
